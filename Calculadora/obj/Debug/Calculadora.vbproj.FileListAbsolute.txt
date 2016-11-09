@@ -1,0 +1,11 @@
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+D:\Otros\Conti\CicloVII\Evolucion del Software\Practica\PA\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
