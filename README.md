@@ -1,2 +1,3 @@
 # MiCalculadora1
-Calculadora Basica
+Sistema básico
+Creación de mi Calculadora Básica
